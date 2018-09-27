@@ -1,4 +1,4 @@
-# http-calc-server
+# firebase-http-calc-server
 <p>This is a HTTP calculator server. </p>
 <p>Please refer to the following documents. </p>
 
