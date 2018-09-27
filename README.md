@@ -2,7 +2,7 @@
 <p>
 This is a HTTP calculator server.<br/>
 Please refer to the following documents:<br/>
-https://firebase.google.com/docs/functions/http-events
+https://firebase.google.com/docs/functions/http-events<br/>
 https://firebase.google.com/docs/hosting/functions
 </p>
 
