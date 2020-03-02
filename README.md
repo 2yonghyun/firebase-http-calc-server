@@ -30,17 +30,19 @@ To install this app with Firebase. You need nodejs and Firebase CLI.
 After the clone this project and run the following command in your terminal.
 ```zsh
 $ firebase use --add
-# Select which firebase project you link
+```
+Then select which firebase project you link in the terminal.
 
+```zsh
 $ firebase init
-# Select functions and hosting
+```
+Then select functions and hosting in the terminal.  
 
-# Deploy app to firebase
+And finally deploy app to firebase.
+```zsh
 $ firebase deploy
 ```
 
-
-
-To setup on your own, please refer to the following documents:<br/>
-https://firebase.google.com/docs/functions/http-events<br/>
+For more detail, please refer to the following documents:  
+https://firebase.google.com/docs/functions/http-events  
 https://firebase.google.com/docs/hosting/functions
